@@ -25,9 +25,3 @@ I like turning designs into scalable code and constantly improving my frontend s
 <p align="center">
 HTML | CSS | SCSS | JavaScript | React | Tailwind CSS | Git | GitHub | Figma | VS Code
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saddiabu4&show_icons=true&theme=dark" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddiabu4&layout=compact&theme=dark" />
-</p>
