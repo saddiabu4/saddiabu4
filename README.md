@@ -23,5 +23,5 @@ I like turning designs into scalable code and constantly improving my frontend s
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-HTML | CSS | SCSS | JavaScript | React | Tailwind CSS | Git | GitHub | Figma | VS Code
+HTML | CSS | SCSS | JavaScript | <strong>TypeScript</strong> | React | Tailwind CSS | Git | GitHub | Figma | VS Code
 </p>
